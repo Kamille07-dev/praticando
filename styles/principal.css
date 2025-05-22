@@ -1,0 +1,16 @@
+#section-principal{
+    display: flex;
+    width: 100vw;
+    height: 50vh;
+}
+
+#title{
+    width: 50vw;
+    
+}
+
+#banner{
+    width: 50vw;
+    height: auto;
+   
+}
