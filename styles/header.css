@@ -23,14 +23,17 @@ header{
     gap: 50px;
     align-items: center;
     justify-content: center;
+    
 
     font-family: "Sour Gummy", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
 }
 
+
+
 .nav-item{
-    font-size: 1.2rem;
+    font-size: 1.4rem;
 }
 
 
